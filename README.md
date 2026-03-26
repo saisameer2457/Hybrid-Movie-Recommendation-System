@@ -155,7 +155,7 @@ Overall, this demonstrates that hybrid systems improve robustness and coverage, 
 ## 📂 Project Structure
 
 ```text
-recommender-system/
+Hybrid Movie Recommendation System/
 │
 ├── data/
 │   ├── movies.dat
