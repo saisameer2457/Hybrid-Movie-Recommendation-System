@@ -1,0 +1,4 @@
+model,precision@k,recall@k,f1@k,map@k,num_users,skipped_users
+MF,0.049,0.0548,0.0507,0.0245,5981,59
+Content,0.0219,0.0285,0.0236,0.0101,5981,59
+Hybrid,0.0473,0.0539,0.0493,0.0229,5981,59
